@@ -1,4 +1,4 @@
-# [Yell Theme ✨](https://github.com/coderdiaz/yell-vscode-theme) &middot; 
+# [Yell Theme ✨](https://github.com/coderdiaz/yell-vscode-theme) &middot; [![Version](https://vsmarketplacebadge.apphb.com/version/coderdiaz.yell.svg)](https://marketplace.visualstudio.com/items?itemName=coderdiaz.yell) &middot; [![Downloads](https://img.shields.io/vscode-marketplace/r/coderdiaz.yell.svg)](https://marketplace.visualstudio.com/items?itemName=coderdiaz.yell)
 A Visual Studio Code theme for dark lovers with accesible colors ✨
 
 About this theme, Thanks to Sarah Drasner (@sdras) for the tips and recommendations. This theme was created with help Sarah's article in CSS Tricks.
