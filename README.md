@@ -1,10 +1,26 @@
 # [Yell Theme ✨](https://github.com/coderdiaz/yell-vscode-theme) &middot; [![Version](https://vsmarketplacebadge.apphb.com/version/coderdiaz.yell.svg)](https://marketplace.visualstudio.com/items?itemName=coderdiaz.yell) [![Downloads](https://img.shields.io/vscode-marketplace/r/coderdiaz.yell.svg)](https://marketplace.visualstudio.com/items?itemName=coderdiaz.yell)
 A Visual Studio Code theme for dark lovers with accesible colors ✨
 
-About this theme, Thanks to Sarah Drasner (@sdras) for the tips and recommendations. This theme was created with help Sarah's article in CSS Tricks.
+About this theme, thanks to Sarah Drasner (@sdras) for the tips and recommendations. This theme was created with help Sarah's article in CSS Tricks: https://css-tricks.com/creating-a-vs-code-theme/.
 
 ## Preview
 ![Preview](preview.png)
+
+## Languages
+### HTML
+![Preview HTML](previews/html.png)
+
+### Vue
+![Preview Vue](previews/vue.png)
+
+### JS
+![Preview JS](previews/js.png)
+
+### Python
+![Preview Python](previews/python.png)
+
+### React
+![Preview React](previews/react.png)
 
 ## Installation
 1. Install [Visual Studio Code](https://code.visualstudio.com/).
@@ -27,4 +43,4 @@ This is my first theme, so if you something amiss, please feel free to file and 
 
 Any relevant changes for each version are documented in the changelog. Please update and check the changelog before filing any issues, as they may have already been taken care of.
 
-This theme was inspired from favorite color palette used in my personal [portfolio](https://coderdiaz.me).
+This theme was inspired from my favorite color palette used in my personal [portfolio](https://coderdiaz.me).
