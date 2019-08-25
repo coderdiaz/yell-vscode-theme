@@ -1,0 +1,38 @@
+{
+    "name": "yell",
+    "displayName": "Yell",
+    "description": "A VS Code theme for dark lovers with accesible colors. ✨",
+    "publisher": "coderdiaz",
+    "version": "0.1.0",
+    "license": "MIT",
+    "scripts": {
+        "publish": "vsce publish"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/coderdiaz/yell-vscode-theme.git"
+    },
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Yell theme",
+        "Darkscode",
+        "Accesible Theme"
+    ],
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Yell",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Yell-color-theme.json"
+            }
+        ]
+    }
+}
