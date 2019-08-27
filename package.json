@@ -3,7 +3,7 @@
     "displayName": "Yell",
     "description": "A VS Code theme for dark lovers with accesible colors. ✨",
     "publisher": "coderdiaz",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "license": "MIT",
     "scripts": {
         "publish": "vsce publish"
