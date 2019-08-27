@@ -8,7 +8,7 @@
 
     // Title Bar
     "titleBar.activeBackground": "#101415",
-    "titleBar.border": "#101415e6",
+    "titleBar.border": "#1E2527",
 
     // Sidebar"
     "sideBar.background": "#171C1E",
@@ -37,7 +37,9 @@
     "editor.background": "#101415",
     "editor.selectionBackground": "#222b2e",
     "editor.lineHighlightBackground": "#1D2427",
-    "editorRuler.foreground": "#2c2c2c",
+    "editorRuler.foreground": "#313636",
+    "editorIndentGuide.activeBackground": "#313636",
+    "editorIndentGuide.background": "#313636",
 
     // List and trees
     "list.activeSelectionBackground": "#1D2427",
@@ -46,11 +48,15 @@
     "list.inactiveSelectionForeground": "#c3c3c3",
     "list.hoverBackground": "#1D2427",
     "list.hoverForeground": "#c3c3c3",
+    "list.focusBackground": "#6F1B3380",
+    "list.focusForeground": "#f3b9a3",
+    "quickInput.foreground": "#A8A9A9",
+    "pickerGroup.foreground": "#f3b9a3",
 
     // Status Bar
     "statusBar.background": "#6F1B33",
     "statusBar.foreground": "#f3b9a3",
-    "statusBar.border": "#671f33",
+    "statusBar.border": "#884457",
     "statusBar.noFolderBackground": "#6F1B33",
     "statusBar.noFolderForeground": "#f3b9a3",
 
