@@ -3,23 +3,44 @@ A Visual Studio Code theme for dark lovers with accesible colors ✨
 
 About this theme, thanks to Sarah Drasner (@sdras) for the tips and recommendations. This theme was created with help Sarah's article in CSS Tricks: https://css-tricks.com/creating-a-vs-code-theme/.
 
-## Preview
+<p align="center">
+  <h1 align="center">Preview</h1>
+</p>
+
 ![Preview](preview.png)
 
-## Languages
-### HTML
+<p align="center">
+  <h2 align="center">Languages</h2>
+</p>
+
+<p align="center">
+  <h3 align="center">HTML</h3>
+</p>
+
 ![Preview HTML](previews/html.png)
 
-### Vue
+<p align="center">
+  <h3 align="center">Vue</h3>
+</p>
+
 ![Preview Vue](previews/vue.png)
 
-### JS
+<p align="center">
+  <h3 align="center">JavaScript</h3>
+</p>
+
 ![Preview JS](previews/js.png)
 
-### Python
+<p align="center">
+  <h3 align="center">Python</h3>
+</p>
+
 ![Preview Python](previews/python.png)
 
-### React
+<p align="center">
+  <h3 align="center">React</h3>
+</p>
+
 ![Preview React](previews/react.png)
 
 ## Installation
