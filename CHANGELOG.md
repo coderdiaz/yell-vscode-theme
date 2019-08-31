@@ -2,6 +2,12 @@
 
 All notable changes to the "yell" extension will be documented in this file.
 
+## 0.1.3
+- **New**: Changed `font-style` for entity tags.
+- **New**: Added `top` tab border for active tabs.
+- **fix**: Fixed `editorSuggestWidget` style.
+- **fix**: Fixed errors with `font-style` settings.
+
 ## 0.1.2
 - **Fix**: Fixed `title-bar` border.
 - **New**: Changed colors for `indent guide` in editor.
